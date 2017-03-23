@@ -1,2 +1,2 @@
 # HomesteadOCD
-Precise Elder Scrolls Online Homestead furniture placement for that sex dungeon you deny building.
+Release available at http://www.esoui.com/downloads/info1640-HomesteadOCD.html
